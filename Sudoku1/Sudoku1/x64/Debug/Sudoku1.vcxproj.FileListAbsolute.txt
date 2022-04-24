@@ -1,0 +1,4 @@
+C:\Dev\VS22_projects\Sudoku1\Sudoku1\x64\Debug\Sudoku1.vcxproj.AssemblyReference.cache
+C:\Dev\VS22_projects\Sudoku1\Sudoku1\x64\Debug\Sudoku1.vcxproj.SuggestedBindingRedirects.cache
+C:\Dev\VS22_projects\Sudoku1\Sudoku1\x64\Debug\Sudoku1.MyForm.resources
+C:\Dev\VS22_projects\Sudoku1\Sudoku1\x64\Debug\Sudoku1.vcxproj.GenerateResource.cache
